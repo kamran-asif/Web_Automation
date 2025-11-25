@@ -1,5 +1,4 @@
 # Web Automation with Selenium
-
 This project contains Python scripts that automate the login process for popular websites like **Facebook**, **LinkedIn**, and **Twitter** using **Selenium WebDriver**.
 
 The purpose of this project is to demonstrate how Selenium can be used to automate repetitive web tasks such as logging into websites securely and efficiently.
